@@ -1,10 +1,11 @@
 # Text-to-Image Generator
 
-The Text-to-Image Generator is a full-stack web application that allows users to create images with custom text content. Powered by Express.js, Node.js, jQuery, and EJS, this application simplifies the process of generating images from provided text.
+The Text-to-Image Generator is a full-stack web application that allows users to create images with custom text content. Powered by Express.js, Node.js, jQuery, EJS, and integrates OpenAI's API for generating images from text.
 
-Features
+**Features:**
+
 Create custom images with text content.
-Preview the image before generating and downloading.
+Utilize OpenAI's API to generate images based on provided text.
 Easy-to-use interface with responsive design.
 Built using modern web technologies for a seamless user experience
 
