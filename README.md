@@ -7,5 +7,5 @@ The Text-to-Image Generator is a full-stack web application that allows users to
 Create custom images with text content.
 Utilize OpenAI's API to generate images based on provided text.
 Easy-to-use interface with responsive design.
-Built using modern web technologies for a seamless user experience
+Built using modern web technologies for a seamless user experience.
 
